@@ -1,0 +1,44 @@
+body{
+	background:darkslategray;    
+    padding: 60px;
+    margin-left:60px;  
+    font-family: 微軟正黑體;
+    
+}
+#method1{
+	position: relative;
+	width: 35%;
+}
+
+#method1 div{
+	display: inline;
+	color:54A67E;
+	margin: 5px;
+	cursor:hand;
+}
+#method1 div:hover{
+	color:D4F8E6;
+}
+
+#method2{
+	position:relative;
+	width: 35%;
+}
+
+#result{
+	display: block;
+	position:fixed;
+	top:60px;
+	left: 45%;
+    color: hite;	
+}
+
+h1{
+	color: EEEEEE;
+}
+
+select{
+	background-color: 54A67E;
+	font-family: 微軟正黑體;
+	font-size: 15px;
+}
